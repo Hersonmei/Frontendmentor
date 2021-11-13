@@ -46,8 +46,6 @@ h1 {
     background-color: #F8F9FE;
     border-radius: 17px;
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
 
 }
 
